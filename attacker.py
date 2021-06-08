@@ -11,8 +11,8 @@ print ('''
 /_/ |_|\___/|___/\___/_/  /____/\___/  /  _/_/ /_/\___/_/_/   
                                        /_/                    
 Author    > king
-Instagram > hacking_with_king
-github    > KING3140
+Instagram > @the.empiresec
+github    > https://github.com/theEmpireSec
 ''')
 print ('Make to update the ip/host in target.py file\n')
 # Create a Socket ( connect two computers)
